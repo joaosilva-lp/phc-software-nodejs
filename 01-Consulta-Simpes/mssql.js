@@ -21,7 +21,7 @@ const config = {
 
 // ABAIXO PODE ESCREVER A SUA EXPRESSÃO SQL
 
-const consulta = `select bo.nmdos, bo.obrano, bo.nome, bo.dataobra
+const consulta = `select bo.nmdos [Nome do Dossier], bo.obrano [N.º do Dossier], bo.nome [Nome do Cliente], bo.dataobra [Data do Dossier]
 from bo
 inner join bo2 on bo2.bo2stamp=bo.bostamp  
 inner join bi on bi.bostamp=bo.bostamp   
