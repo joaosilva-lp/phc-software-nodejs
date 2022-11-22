@@ -16,8 +16,7 @@ Algumas ferramentas criadas em NodeJS para integração com PHC Software
  </div>
 
 <br>
- 
- <div> <a href="https://github.com/joaosilva-lp/phc-software-nodejs/tree/main/03%20-%20Consulta%20%2B%20Exporta%C3%A7%C3%A3o%20para%20Ficheiro%20%2B%20Abrir%20Documento%20no%20Browser"> <strong>:pushpin: 03 - Consulta, Exportação para Ficheiro e Abertura do Ficheiro no Firefox:</strong></a>
+  <div> <a href="https://github.com/joaosilva-lp/phc-software-nodejs/tree/main/03%20-%20Consulta%20%2B%20Exporta%C3%A7%C3%A3o%20para%20Ficheiro%20%2B%20Abrir%20Documento%20no%20Browser"> <strong>:pushpin: 03 - Consulta, Exportação para Ficheiro e Abertura do Ficheiro no Firefox:</strong></a>
     <br>[+] Permite fazer consultas à base de dados SQL diretamente via terminal, por exemplo, para verificar de forma rápida encomendas em aberto sem necessidade de abrir o PHC Software. Depois de mostrar a consulta o programa exporta os resultados obtidos para um ficheiro JSON que será aberto automaticamente no browser Firefox.
     <p>Módulos NPM utilizados: <br>:cd: MSSQL :cd: - https://www.npmjs.com/package/mssql <br> :cd: FS :cd: - https://nodejs.org/api/fs.html <br> :cd: Open :cd: -  https://www.npmjs.com/package/open <br> 
     
