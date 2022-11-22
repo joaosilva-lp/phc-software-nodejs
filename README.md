@@ -21,3 +21,5 @@ Algumas ferramentas criadas em NodeJS para integração com PHC Software
     <p>Módulos NPM utilizados: <br>:cd: MSSQL :cd: - https://www.npmjs.com/package/mssql <br> :cd: FS :cd: - https://nodejs.org/api/fs.html <br> :cd: Open :cd: -  https://www.npmjs.com/package/open <br> 
     
  </div>
+
+🆘🎃 Colaborações, dúvidas ou sugestões são muito bem vindas!
