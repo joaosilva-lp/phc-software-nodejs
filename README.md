@@ -20,7 +20,7 @@ Algumas ferramentas criadas em NodeJS para integração com PHC Software
     <br>[+] Permite fazer consultas à base de dados SQL diretamente via terminal, por exemplo, para verificar de forma rápida encomendas em aberto sem necessidade de abrir o PHC Software. Depois de mostrar a consulta o programa exporta os resultados obtidos para um ficheiro JSON que será aberto automaticamente no browser Firefox.
     <p>Módulos NPM utilizados: <br>:cd: MSSQL :cd: - https://www.npmjs.com/package/mssql <br> :cd: FS :cd: - https://nodejs.org/api/fs.html <br> :cd: Open :cd: -  https://www.npmjs.com/package/open <br> 
     
-    <br>
+    
   <div> <a href="https://github.com/joaosilva-lp/phc-software-nodejs/tree/main/04%20-%20Consulta%20importando%20Query%20SQL"> <strong>:pushpin: 04 - Consulta com Expressão SQL escrita em ficheiro externo.</strong></a>
     <br>[+] Permite fazer consultas à base de dados SQL diretamente via terminal sem editar código, utilizando apenas um ficheiro externo. Por exemplo, para verificar de forma rápida que dossiers a empresa possui sem precisar de abrir o PHC. Depois de importar a query do SQL o programa importa a expressão e apresenta os resultados obtidos no terminal.
     <p>Módulos NPM utilizados: <br>:cd: MSSQL :cd: - https://www.npmjs.com/package/mssql <br> :cd: FS :cd: - https://nodejs.org/api/fs.html <br> :cd: Open :cd: -  https://www.npmjs.com/package/open <br> 
